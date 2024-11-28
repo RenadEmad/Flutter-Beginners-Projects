@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const pointsCounter());
+  runApp( const pointsCounter());
 }
 
 class pointsCounter extends StatelessWidget {
